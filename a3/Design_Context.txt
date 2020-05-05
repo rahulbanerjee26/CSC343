@@ -1,0 +1,29 @@
+
+Divers must be at least 16 when a dive occurs 
+and have an open-water certication from one of: NAUI, CMAS, or PADI. 
+
+One diver, the lead, books a dive, possibly to include other qualied divers, up to the
+limit the monitor is willing to take, and taking into account the number the dive site has capacity for at
+that date and time.
+
+Each monitor has their own price list, according to whether a dive will be morning (9:30 to 11 a.m.),
+afternoon (12:30 to 2 p.m.) or night (8:30 to 10 p.m.), and whether the dive will be open water, cave diving,
+or deeper than 30 meters. 
+
+The price charged by a monitor includes any fees a dive site charges per diver,
+and a monitor may have booking privileges with one or more dive sites. Monitors also have a maximum
+group size for each category: open water, cave, or deeper than 30 meters, and they set the maximum to 0 if
+they do not supervise that category of dive.
+
+All dive sites provide 12 litre aluminum tanks, weight belts and bouyancy compensation vests as part
+of their fee. Some also provide mask, regulator, ns, and wrist-mounted dive computer, each for additional
+fees. In addition some sites provide free services from among: video of dives, snacks, hot showers, towel
+service. Each site lists a maximum number of divers, combining one or more bookings, allowed on site at
+any daylight hour, and lists smaller maxima for night, cave, or deeper than 30 meter dives. Each site lists
+one or more dive types they provide from: open water, cave dive, or beyond 30 meters.
+A lead diver may book as many dives as they can nd monitors and dive sites for, but only one dive at
+a given date and time. No monitor is allowed to book more than two dives per 24 hour period, in order to
+keep their blood nitrogen at safe levels. The lead diver provides credit card information, email addresses
+and dive certication for all divers, and credit card information to secure the dive(s).
+All divers may, optionally, rate a site on a scale of 0 (very poor) to 5 (excellent), and lead divers may
+rate monitors on the same scale
